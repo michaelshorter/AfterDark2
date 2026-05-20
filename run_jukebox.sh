@@ -17,4 +17,4 @@ done
 echo "USB drive found, starting jukebox..."
 
 source /home/jukebox/jukebox-env/bin/activate
-python /home/jukebox/jukebox_07042026.py
+python /home/jukebox/AfterDark2/jukebox.py
